@@ -1,0 +1,1 @@
+This folder can be utilized for utilizing custom fonts for components.

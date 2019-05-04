@@ -1,0 +1,7 @@
+node_modules
+styleguide/build
+coverage
+ansible/vendor
+.vscode
+*.log
+assets/semantic/
